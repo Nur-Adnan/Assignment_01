@@ -1,0 +1,167 @@
+/* ------Global Styles--------- */
+body {
+  margin: 0;
+}
+.top-banner {
+  display: flex;
+  margin-top: 5%;
+}
+.half-width {
+  width: 40%;
+  margin-left: 10%;
+}
+.img-size {
+  width: 70%;
+  margin-top: -120px;
+}
+.app {
+  height: 700px;
+  width: 400px;
+  padding-left: 250px;
+}
+img {
+  width: 100%;
+}
+.h1-heading {
+  font-family: 'Yeseva One';
+  font-size: 60px;
+}
+span {
+  color: #ffad5a;
+}
+.footer-colorNum {
+  color: #ff5959;
+}
+.sit-border {
+  border-left: 5px solid #ff5959;
+  height: auto;
+  border-radius: 2px;
+  padding-left: 15px;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  margin-bottom: 5%;
+  margin-top: 50px;
+}
+#link-button {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  font-size: 22px;
+  color: #fff;
+  background-color: #ff5959;
+  padding: 14px 38px;
+  border-radius: 8px;
+}
+.heading-part2 {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 70px;
+}
+.box-letter {
+  margin-left: 6%;
+  width: 20%;
+  border-radius: 10%;
+  padding: 40px 50px;
+}
+.paragraph {
+  font-family: 'Poppins', sans-serif;
+  text-align: justify;
+  font-size: 22px;
+}
+.box-letter img {
+  width: 50%;
+}
+.box1 {
+  background-color: #edf5f6;
+}
+.box2 {
+  background-color: #ffeeee;
+}
+.box3 {
+  background-color: #fff4d6;
+}
+.head-size {
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+}
+.img3-size {
+  width: 30%;
+  margin-left: 13%;
+  margin-right: -5%;
+}
+.font-size {
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  margin-top: -33px;
+}
+.font-paragraph {
+  font-size: 23px;
+}
+.Develop-dawn {
+  margin-top: 4%;
+  margin-bottom: 10%;
+}
+.img4-size {
+  width: 70%;
+  margin-left: -13%;
+}
+/*devoloper code uplode*/
+.heading-h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+.footer-color {
+  height: 250px;
+  background-color: #000;
+  padding-top: 20px;
+}
+.downword {
+  padding-bottom: 150px;
+}
+.footer-heading {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+}
+.paragraph-footer {
+  text-align: center;
+  color: #d4d4d4;
+  font-family: 'Poppins', sans-serif;
+}
+.photo {
+  width: 8%;
+}
+
+/* other-section */
+.other-section {
+  background-image: url('img/shapes/shape-1.png');
+  background-repeat: no-repeat;
+  background-size: 20%;
+  padding: 60px 0px;
+  justify-content: space-around;
+}
+.bg-left {
+  background-position: left 100px top 85px;
+}
+.bg-right {
+  background-position: bottom right 10%;
+}
+.other-image {
+  width: 30%;
+}
+.description {
+  width: 45%;
+}
+.boxes {
+  background-image: url('img/shapes/shape-2.png');
+  background-repeat: no-repeat;
+  background-size: 6%;
+  padding: 50px 0px;
+  justify-content: space-around;
+}
+.posBoxUp {
+  background-position: left 450px top 30px;
+}
